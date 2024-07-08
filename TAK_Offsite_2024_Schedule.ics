@@ -22,9 +22,9 @@ TZOFFSETTO:-0600
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5b6616e8-1911-48d6-b526-f5a411c522fd@5b66.org
+UID:90da7b90-937f-492c-aa2f-dc1b71095e32@90da.org
 SUMMARY:Day 1 Check-In
-DTSTART;TZID=America/Denver:20240709T070000
+DTSTART;TZID=America/Denver:20240709T063000
 DTEND;TZID=America/Denver:20240709T080000
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_Day1_Check-ins
@@ -33,7 +33,7 @@ CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5639507d-af35-4f89-b19e-baf72731f6ca@5639.org
+UID:19c6d9f1-d7b9-48c4-ab83-9d016b346f7b@19c6.org
 SUMMARY:Welcome Message
 DTSTART;TZID=America/Denver:20240709T080000
 DTEND;TZID=America/Denver:20240709T081500
@@ -44,8 +44,8 @@ CATEGORIES:Plenary Sessions,Conference Opener
 END:VEVENT
 
 BEGIN:VEVENT
-UID:55ef80e9-abd5-450c-8950-c31f6ea3c669@55ef.org
-SUMMARY:TAK CSB Chair Welcome - COL Rhea Pritchett
+UID:0080ede9-8b02-439c-8d8d-efee7600d708@0080.org
+SUMMARY:TAK CSB Chair Welcome
 DTSTART;TZID=America/Denver:20240709T081500
 DTEND;TZID=America/Denver:20240709T083000
 DESCRIPTION:Track: Plenary Sessions
@@ -55,21 +55,21 @@ CATEGORIES:Plenary Sessions,Conference Opener
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0c458679-0b58-40d9-a122-08076723c448@0c45.org
-SUMMARY:Keynote #1: Jock Padget CDAO CJADC2
+UID:1faff6a4-2205-4c23-bc03-560eda698497@1faf.org
+SUMMARY:Operational Leader Keynote
 DTSTART;TZID=America/Denver:20240709T083000
-DTEND;TZID=America/Denver:20240709T091500
+DTEND;TZID=America/Denver:20240709T093000
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_Keynote1
 LOCATION:Salon A
-CATEGORIES:Plenary Sessions,Analysis
+CATEGORIES:Plenary Sessions,Ground Operations
 END:VEVENT
 
 BEGIN:VEVENT
-UID:df6a8e83-dc78-4e5a-94ef-ae7e94202c20@df6a.org
+UID:b381a6cc-ac3f-4af3-b885-ed82687b13fd@b381.org
 SUMMARY:The Road to Information Dominance TPC Director Keynote
-DTSTART;TZID=America/Denver:20240709T091500
-DTEND;TZID=America/Denver:20240709T101500
+DTSTART;TZID=America/Denver:20240709T093000
+DTEND;TZID=America/Denver:20240709T104500
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_R2ID
 LOCATION:Salon A
@@ -77,10 +77,10 @@ CATEGORIES:Plenary Sessions,TAK Product Center
 END:VEVENT
 
 BEGIN:VEVENT
-UID:255ad6cb-8b08-43a6-a442-5d2eadfe646c@255a.org
+UID:3e431194-675e-4200-a262-d20bde5c214e@3e43.org
 SUMMARY:Day 1 Morning Break
-DTSTART;TZID=America/Denver:20240709T101500
-DTEND;TZID=America/Denver:20240709T103000
+DTSTART;TZID=America/Denver:20240709T104500
+DTEND;TZID=America/Denver:20240709T110000
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_Break1
 LOCATION:Salon A
@@ -88,20 +88,9 @@ CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d62ed520-8916-4efb-b74d-e948ab2eb7b1@d62e.org
-SUMMARY:Operational User #1
-DTSTART;TZID=America/Denver:20240709T103000
-DTEND;TZID=America/Denver:20240709T111500
-DESCRIPTION:Track: Plenary Sessions
-Link: https://tak.gov/events/2024_Offsite_Operational_User1
-LOCATION:Salon A
-CATEGORIES:Plenary Sessions,Ground Operations
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6688440f-06c1-4e35-bdf4-24fda3b859d1@6688.org
-SUMMARY:Operational User #2: Public Safety
-DTSTART;TZID=America/Denver:20240709T111500
+UID:3b03089e-c565-4472-b095-3ee195ddf469@3b03.org
+SUMMARY:Operational User #2: USAF
+DTSTART;TZID=America/Denver:20240709T110000
 DTEND;TZID=America/Denver:20240709T120000
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_Operational_User2
@@ -110,7 +99,7 @@ CATEGORIES:Plenary Sessions,Fire & Emergency Response
 END:VEVENT
 
 BEGIN:VEVENT
-UID:28be9671-b1e3-47e4-8dd7-cd76dd086769@28be.org
+UID:e9b482a4-4d83-4b00-86b2-3b77018642de@e9b4.org
 SUMMARY:Day 1 Lunch Break
 DTSTART;TZID=America/Denver:20240709T120000
 DTEND;TZID=America/Denver:20240709T131500
@@ -121,10 +110,10 @@ CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c8e7c906-c58c-4951-9659-b91663d35133@c8e7.org
+UID:ae306979-6866-4e4b-8a44-7a5937f9db27@ae30.org
 SUMMARY:TAK Products, Platform, and Design Update
 DTSTART;TZID=America/Denver:20240709T131500
-DTEND;TZID=America/Denver:20240709T154500
+DTEND;TZID=America/Denver:20240709T151500
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_TAK_Update
 LOCATION:Salon A
@@ -132,10 +121,21 @@ CATEGORIES:Plenary Sessions,System Architecture
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a58d5e4e-2c37-4a1a-a49b-2ee19ca53ad3@a58d.org
-SUMMARY:Day 1 Afternoon Break
-DTSTART;TZID=America/Denver:20240709T154500
+UID:478f6a36-6cd2-4955-9d94-b19e600d11df@478f.org
+SUMMARY:Operational User #3: The Future of Public Safety with TAK
+DTSTART;TZID=America/Denver:20240709T151500
 DTEND;TZID=America/Denver:20240709T160000
+DESCRIPTION:Track: Plenary Sessions
+Link: https://tak.gov/events/day-1-operational-user-3
+LOCATION:Salon A
+CATEGORIES:Plenary Sessions,Fire & Emergency Response
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dfe4729a-30fa-4efa-a409-d1d256809998@dfe4.org
+SUMMARY:Day 1 Afternoon Break
+DTSTART;TZID=America/Denver:20240709T160000
+DTEND;TZID=America/Denver:20240709T161500
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_Break3
 LOCATION:Salon A
@@ -143,9 +143,9 @@ CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:01d31423-d318-428d-80c6-6fa55dc066cd@01d3.org
-SUMMARY:Keynote #2
-DTSTART;TZID=America/Denver:20240709T160000
+UID:50708ac5-2001-4969-9d88-c56275806dbc@5070.org
+SUMMARY:Senior Leader Keynote #2
+DTSTART;TZID=America/Denver:20240709T161500
 DTEND;TZID=America/Denver:20240709T171500
 DESCRIPTION:Track: Plenary Sessions
 Link: https://tak.gov/events/2024_Offsite_Keynote2
@@ -154,7 +154,7 @@ CATEGORIES:Plenary Sessions,Analysis
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ea8c6f27-fe6a-469c-92d3-cf45fdc93f13@ea8c.org
+UID:c8a20363-1d5f-4048-9815-7f4ef6666fc6@c8a2.org
 SUMMARY:End of Day 1
 DTSTART;TZID=America/Denver:20240709T171500
 DTEND;TZID=America/Denver:20240709T180000
@@ -165,7 +165,7 @@ CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5d5359bf-1722-46e6-bbb7-c58cb43a0310@5d53.org
+UID:e48d3a16-c714-4e7f-8e91-193205c23e39@e48d.org
 SUMMARY:Day 1 No-Host Social
 DTSTART;TZID=America/Denver:20240709T180000
 DTEND;TZID=America/Denver:20240709T200000
@@ -176,7 +176,7 @@ CATEGORIES:Plenary Sessions,TAK Product Center
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d9a194ca-d59b-4b19-990d-4f8ef17331ee@d9a1.org
+UID:f90834aa-1304-410e-9e66-04777d7eaa08@f908.org
 SUMMARY:Day 2 Check-In
 DTSTART;TZID=America/Denver:20240710T070000
 DTEND;TZID=America/Denver:20240710T080000
@@ -187,7 +187,7 @@ CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5386aa9a-8eb2-4b94-a2c0-172be3784692@5386.org
+UID:0cc3024f-8a26-44c6-a899-8bb405a9a0f6@0cc3.org
 SUMMARY:Welcome Message - Nate Frantz, COL Rhea Pritchett
 DTSTART;TZID=America/Denver:20240710T080000
 DTEND;TZID=America/Denver:20240710T081500
@@ -198,8 +198,8 @@ CATEGORIES:General Sessions,Conference Opener
 END:VEVENT
 
 BEGIN:VEVENT
-UID:71b95dca-0a2b-444c-b984-6956684d829e@71b9.org
-SUMMARY:Opening Remarks:  USMC - MCTSSA - COL Clarkson
+UID:b58c0329-f17d-492c-89f9-f91bb425fae6@b58c.org
+SUMMARY:Opening Remarks:  USMC - MCTSSA
 DTSTART;TZID=America/Denver:20240710T081500
 DTEND;TZID=America/Denver:20240710T083000
 DESCRIPTION:Track: General Sessions
@@ -209,7 +209,7 @@ CATEGORIES:General Sessions,Conference Opener
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ac4afb5f-fd82-4067-ba39-2dde45aa25df@ac4a.org
+UID:9d370f93-8551-460e-90d7-d3d7cc4c347a@9d37.org
 SUMMARY:NGA Aero App TAK Integration
 DTSTART;TZID=America/Denver:20240710T083000
 DTEND;TZID=America/Denver:20240710T090000
@@ -220,7 +220,7 @@ CATEGORIES:General Sessions,Geospatial
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f15dda93-6479-4f4a-9554-0435cbc99e5d@f15d.org
+UID:602e27f2-2656-4b9f-a305-7a22d905f171@602e.org
 SUMMARY:MCTSSA Update
 DTSTART;TZID=America/Denver:20240710T083000
 DTEND;TZID=America/Denver:20240710T091500
@@ -231,7 +231,7 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a87779af-b25c-4d28-8c7a-7dae9b558d7c@a877.org
+UID:445b0330-7160-4899-a954-1fc21cfbb6e2@445b.org
 SUMMARY:MITRE Cyber Updates
 DTSTART;TZID=America/Denver:20240710T083000
 DTEND;TZID=America/Denver:20240710T090000
@@ -242,7 +242,7 @@ CATEGORIES:Multiple Tracks,System Architecture
 END:VEVENT
 
 BEGIN:VEVENT
-UID:aec7ce1c-06a9-4946-a450-6736e03d24a3@aec7.org
+UID:4196afe0-52ed-42f4-aa4c-dbdc2dedc111@4196.org
 SUMMARY:MAXAR:  Enabling TAK with Commercial Imagery from GEGD Pro
 DTSTART;TZID=America/Denver:20240710T090000
 DTEND;TZID=America/Denver:20240710T093000
@@ -253,18 +253,18 @@ CATEGORIES:General Sessions,Geospatial
 END:VEVENT
 
 BEGIN:VEVENT
-UID:856916d9-ce35-4e72-b7a2-89e16e4320ec@8569.org
-SUMMARY:Reserved
+UID:e95c0ffd-1977-405c-a6ce-474be3ecfd38@e95c.org
+SUMMARY:SAR/Evasion guidance and TAK ML (JPRA)
 DTSTART;TZID=America/Denver:20240710T090000
 DTEND;TZID=America/Denver:20240710T093000
 DESCRIPTION:Track: Plenary Sessions
-Link: https://tak.gov/events/2024_Offsite_Reserved1
+Link: https://tak.gov/events/2024_Offsite_SAR_Evasion_TAK_ML_JPRA
 LOCATION:Salon B
 CATEGORIES:Plenary Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bb312d47-b876-4225-80bc-996b61998e5f@bb31.org
+UID:fd2033e6-5981-45a1-a7a9-73bdad70e0df@fd20.org
 SUMMARY:SOCOM MCS/COP Update
 DTSTART;TZID=America/Denver:20240710T091500
 DTEND;TZID=America/Denver:20240710T100000
@@ -275,7 +275,7 @@ CATEGORIES:General Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:aa3e75e4-256d-4361-9f8c-44c54beb1229@aa3e.org
+UID:2ca7b5e1-2ae4-44a1-b8c4-e99e3450e96f@2ca7.org
 SUMMARY:One World Terrain Program Update
 DTSTART;TZID=America/Denver:20240710T093000
 DTEND;TZID=America/Denver:20240710T100000
@@ -286,7 +286,7 @@ CATEGORIES:General Sessions,Geospatial
 END:VEVENT
 
 BEGIN:VEVENT
-UID:45802805-941b-47ea-97a3-951d32c09def@4580.org
+UID:4eb99c31-6248-402e-b32e-a14163b14f8d@4eb9.org
 SUMMARY:Mobile JECL Updates (TAKX Plugin!)
 DTSTART;TZID=America/Denver:20240710T093000
 DTEND;TZID=America/Denver:20240710T100000
@@ -297,7 +297,7 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:eb572523-d322-4ab4-b1a3-c5bae1fa1a5e@eb57.org
+UID:de47e2eb-4d9d-4d6b-bbd5-e30f4b5ee41e@de47.org
 SUMMARY:Day 2 Morning Break
 DTSTART;TZID=America/Denver:20240710T100000
 DTEND;TZID=America/Denver:20240710T101500
@@ -308,7 +308,7 @@ CATEGORIES:General Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:134b3dad-2bb2-492a-a63d-4e9190a9f185@134b.org
+UID:c9195560-5508-4468-acfd-d081821e272c@c919.org
 SUMMARY:Army Geospatial Center: Vector Data and TAK;  Releasable Basemap Tiles Demonstration
 DTSTART;TZID=America/Denver:20240710T101500
 DTEND;TZID=America/Denver:20240710T110000
@@ -319,8 +319,8 @@ CATEGORIES:General Sessions,Geospatial
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9f8d524c-3c3c-48f1-9b0b-dfbc03fda3ab@9f8d.org
-SUMMARY:SOMPE Update
+UID:5ea1313e-a326-4840-8b55-82de674c4480@5ea1.org
+SUMMARY:SOMPE Update: Multi-platform TAK development TAK-UI
 DTSTART;TZID=America/Denver:20240710T101500
 DTEND;TZID=America/Denver:20240710T110000
 DESCRIPTION:Track: Plenary Sessions
@@ -330,18 +330,18 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:98dfb5ea-6e05-4ad8-ba51-36658ff24c82@98df.org
-SUMMARY:JPRA Program Update
+UID:86a6bd82-fd28-4926-8dd3-64664e02ac31@86a6.org
+SUMMARY:WatchTower Update
 DTSTART;TZID=America/Denver:20240710T101500
 DTEND;TZID=America/Denver:20240710T110000
 DESCRIPTION:Track: Multiple Tracks
-Link: https://tak.gov/events/2024_Offsite_JPRA_Update
+Link: https://tak.gov/events/2024_Offsite_WatchTower_Update
 LOCATION:Salon C
 CATEGORIES:Multiple Tracks,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:416f46de-1987-456a-8214-b253a5f42d5f@416f.org
+UID:5558ed0d-33f4-436f-8335-fedfa747f3ac@5558.org
 SUMMARY:ESRI Plugin Overview
 DTSTART;TZID=America/Denver:20240710T110000
 DTEND;TZID=America/Denver:20240710T113000
@@ -352,8 +352,8 @@ CATEGORIES:General Sessions,Geospatial
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f562c643-7012-49c4-8777-f98b5267124b@f562.org
-SUMMARY:PM-Mission Command Update FSC2, MMC-S, C2 Next
+UID:9bb6a28a-ca67-4b17-9147-65308085dbe5@9bb6.org
+SUMMARY:PM-Mission Command Update
 DTSTART;TZID=America/Denver:20240710T110000
 DTEND;TZID=America/Denver:20240710T120000
 DESCRIPTION:Track: Plenary Sessions
@@ -363,7 +363,7 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:088820a2-1725-43c7-ac6c-ade0c39bb77e@0888.org
+UID:53a844c5-87ca-4c35-ac68-2289b825f145@53a8.org
 SUMMARY:DTRA - CoT Integration
 DTSTART;TZID=America/Denver:20240710T110000
 DTEND;TZID=America/Denver:20240710T113000
@@ -374,7 +374,7 @@ CATEGORIES:Multiple Tracks,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:adf7f2a1-86ad-4bdf-9f35-621c4e9c5cd5@adf7.org
+UID:a08d37b3-a17e-4980-a247-aecbfb49fae2@a08d.org
 SUMMARY:Cesium Program Update
 DTSTART;TZID=America/Denver:20240710T113000
 DTEND;TZID=America/Denver:20240710T120000
@@ -385,7 +385,7 @@ CATEGORIES:General Sessions,Geospatial
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3eb4bc48-2b7c-4473-b144-bbbad715ed1e@3eb4.org
+UID:6e4c1b50-a047-43d3-95cf-7e11f28da6fd@6e4c.org
 SUMMARY:Marine Corps Software Factory - Arsenal Design Style Guide 2.0
 DTSTART;TZID=America/Denver:20240710T113000
 DTEND;TZID=America/Denver:20240710T120000
@@ -396,7 +396,7 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d879914f-7615-468f-b84f-184e3cded95a@d879.org
+UID:1e813e00-7f39-4ee0-8ebc-29bb5ea9925b@1e81.org
 SUMMARY:Day 2 Lunch Break
 DTSTART;TZID=America/Denver:20240710T120000
 DTEND;TZID=America/Denver:20240710T131500
@@ -407,7 +407,7 @@ CATEGORIES:General Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:aafb15d8-4be0-4f0c-915a-f518c8d71dd3@aafb.org
+UID:330fe965-e98b-4703-950b-ad05c140c34e@330f.org
 SUMMARY:Wide adoption of TAK in Public Saftey: How far have we come?
 DTSTART;TZID=America/Denver:20240710T131500
 DTEND;TZID=America/Denver:20240710T134500
@@ -418,18 +418,18 @@ CATEGORIES:General Sessions,Fire & Emergency Response
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c592a3d8-228a-4fdc-bac9-2bd5c33ea62d@c592.org
-SUMMARY:Nett Warrior Architecture and WatchTower Update
+UID:b7d19763-64b5-41ee-93b2-d23829236f9f@b7d1.org
+SUMMARY:NAVAIR JEACO Update
 DTSTART;TZID=America/Denver:20240710T131500
 DTEND;TZID=America/Denver:20240710T140000
 DESCRIPTION:Track: Plenary Sessions
-Link: https://tak.gov/events/2024_Offsite_NW_WatchTower_Update
+Link: https://tak.gov/events/2024_Offsite_NAVAIR_JEACO_Update
 LOCATION:Salon B
 CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:49fd3651-6680-468c-bc76-1fa7bd63ad65@49fd.org
+UID:40709068-66b5-47f3-89ef-e909384b4a6d@4070.org
 SUMMARY:Army Software Factory Update
 DTSTART;TZID=America/Denver:20240710T131500
 DTEND;TZID=America/Denver:20240710T134500
@@ -440,7 +440,7 @@ CATEGORIES:Multiple Tracks,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a07fca21-5a33-470d-a600-a2a039f1324f@a07f.org
+UID:bf380ae2-1b15-4edb-ac15-58b06353c5a9@bf38.org
 SUMMARY:TAK Integration in Public Safety
 DTSTART;TZID=America/Denver:20240710T134500
 DTEND;TZID=America/Denver:20240710T143000
@@ -451,7 +451,7 @@ CATEGORIES:General Sessions,Fire & Emergency Response
 END:VEVENT
 
 BEGIN:VEVENT
-UID:80cbbad4-3661-448e-9eb0-9276a3862338@80cb.org
+UID:0f3f4f91-d19d-4ca7-97ee-74c665b46666@0f3f.org
 SUMMARY:Conjure: C3BM Development
 DTSTART;TZID=America/Denver:20240710T134500
 DTEND;TZID=America/Denver:20240710T143000
@@ -462,18 +462,18 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bd3310c0-7014-475e-8641-ca490f37d326@bd33.org
-SUMMARY:NAVAIR JEACO Update
+UID:4ae3b988-dbbe-4e00-9164-a248ddc50b0e@4ae3.org
+SUMMARY:IVAS Program Update
 DTSTART;TZID=America/Denver:20240710T140000
 DTEND;TZID=America/Denver:20240710T143000
 DESCRIPTION:Track: General Sessions
-Link: https://tak.gov/events/2024_Offsite_NAVAIR_JEACO_Update
+Link: https://tak.gov/events/2024_Offsite_IVAS_Update
 LOCATION:Salon A
 CATEGORIES:General Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b790b90a-5463-486e-96f3-338c9281271e@b790.org
+UID:463ebd59-9e84-4c6a-aa2c-6b53e769db0a@463e.org
 SUMMARY:Day 2 Afternoon Break
 DTSTART;TZID=America/Denver:20240710T143000
 DTEND;TZID=America/Denver:20240710T144500
@@ -484,18 +484,18 @@ CATEGORIES:General Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9e975b1d-cf9c-43ba-8a89-0c80cf2ab1f5@9e97.org
-SUMMARY:Large scale events with TAK to manage all of public safety
+UID:2a755661-48ad-4be4-8a9f-cb9a80a2d47b@2a75.org
+SUMMARY:Creating a Common Operating Picture for North Carolina (NCTAK)
 DTSTART;TZID=America/Denver:20240710T144500
 DTEND;TZID=America/Denver:20240710T153000
 DESCRIPTION:Track: General Sessions
-Link: https://tak.gov/events/2024_Offsite_Large_Scale_Public_Safety_Events
+Link: https://tak.gov/events/2024_Offsite_NCTAK
 LOCATION:Salon A
 CATEGORIES:General Sessions,Fire & Emergency Response
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2bf639db-4f32-4b51-a391-111fe792ea11@2bf6.org
+UID:5b925964-949d-4815-91d6-6a39264ac0bf@5b92.org
 SUMMARY:U.S. Secret Service
 DTSTART;TZID=America/Denver:20240710T144500
 DTEND;TZID=America/Denver:20240710T151500
@@ -506,7 +506,7 @@ CATEGORIES:Plenary Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10ff56f1-b1da-4d8b-9cb5-492c1c4e859c@10ff.org
+UID:e3081723-ce0f-478c-8cb4-036daf20fe77@e308.org
 SUMMARY:USMC DI & MANGL
 DTSTART;TZID=America/Denver:20240710T144500
 DTEND;TZID=America/Denver:20240710T151500
@@ -517,8 +517,8 @@ CATEGORIES:Multiple Tracks,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f4ef03ce-97f0-4bbc-af01-4f3185a1de35@f4ef.org
-SUMMARY:FBI
+UID:95b208aa-a5ba-4653-95c7-a9661d3ceb35@95b2.org
+SUMMARY:FBI Program Updates
 DTSTART;TZID=America/Denver:20240710T151500
 DTEND;TZID=America/Denver:20240710T154500
 DESCRIPTION:Track: General Sessions
@@ -528,29 +528,29 @@ CATEGORIES:General Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:72a2303a-0380-43a0-8005-8980aa8d00d6@72a2.org
-SUMMARY:BATDOK
+UID:125fb962-0914-4f0e-83e6-96d933cbd3bd@125f.org
+SUMMARY:Assured Base Operations
 DTSTART;TZID=America/Denver:20240710T151500
-DTEND;TZID=America/Denver:20240710T154500
+DTEND;TZID=America/Denver:20240710T161500
 DESCRIPTION:Track: Plenary Sessions
-Link: https://tak.gov/events/2024_Offsite_BATDOK
+Link: https://tak.gov/events/2024_Offsite_Assured_Base_Operations
 LOCATION:Salon B
-CATEGORIES:Plenary Sessions,Client Platforms
+CATEGORIES:Plenary Sessions,System Management
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6a8f4f8e-5832-4dc6-b65c-8711afe4ab78@6a8f.org
-SUMMARY:COFIRE & COTAK
+UID:484e2afa-1778-4a02-9f7f-2c9f5a066960@484e.org
+SUMMARY:User Management and TAK Data Integration for Public Safety
 DTSTART;TZID=America/Denver:20240710T153000
 DTEND;TZID=America/Denver:20240710T161500
 DESCRIPTION:Track: General Sessions
-Link: https://tak.gov/events/2024_Offsite_COFIRE_COTAK
+Link: https://tak.gov/events/2024_Offsite_Public_Data_User_Data_Management
 LOCATION:Salon A
 CATEGORIES:General Sessions,Fire & Emergency Response
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2f0135f4-aca6-4939-aa3f-e9f274c9836f@2f01.org
+UID:8971f1fc-d2f1-4a87-b2ee-5c868981d295@8971.org
 SUMMARY:U.S. Dept of State DSS Update
 DTSTART;TZID=America/Denver:20240710T154500
 DTEND;TZID=America/Denver:20240710T161500
@@ -561,18 +561,7 @@ CATEGORIES:General Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1c265453-9095-45ad-94b4-332e0ca526b1@1c26.org
-SUMMARY:STITCHES
-DTSTART;TZID=America/Denver:20240710T154500
-DTEND;TZID=America/Denver:20240710T161500
-DESCRIPTION:Track: Plenary Sessions
-Link: https://tak.gov/events/2024_Offsite_STITCHES
-LOCATION:Salon B
-CATEGORIES:Plenary Sessions,Client Platforms
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4940064d-20b2-47eb-87e1-09b5bb8aad21@4940.org
+UID:113dbf2e-4e2d-48b2-890d-4fe95ecfdb0d@113d.org
 SUMMARY:Day 2 Late Afternoon Break
 DTSTART;TZID=America/Denver:20240710T161500
 DTEND;TZID=America/Denver:20240710T163000
@@ -583,7 +572,7 @@ CATEGORIES:General Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a0ecfdb1-9a65-4668-bc19-54725750d104@a0ec.org
+UID:376466f4-00af-4874-bca5-3e46c4dac31a@3764.org
 SUMMARY:Open Sensor Hub TAK Integration
 DTSTART;TZID=America/Denver:20240710T163000
 DTEND;TZID=America/Denver:20240710T171500
@@ -594,18 +583,18 @@ CATEGORIES:General Sessions,UAS/Sensor Control
 END:VEVENT
 
 BEGIN:VEVENT
-UID:482ff831-0008-4e39-aba8-8f19f744fc3f@482f.org
-SUMMARY:Palintir Integration with TAK
+UID:99918131-f678-49b1-9f72-ed44f12a9fa2@9991.org
+SUMMARY:Palantir Integration with TAK Ecosystem
 DTSTART;TZID=America/Denver:20240710T163000
 DTEND;TZID=America/Denver:20240710T171500
 DESCRIPTION:Track: Multiple Tracks
-Link: https://tak.gov/events/2024_Offsite_TAK_Palintir
+Link: https://tak.gov/events/2024_Offsite_Palintir_Integration_TAK_Ecoystem
 LOCATION:Salon C
 CATEGORIES:Multiple Tracks,System Management
 END:VEVENT
 
 BEGIN:VEVENT
-UID:764969c1-2cc4-4774-b578-757050e5c8ef@7649.org
+UID:42970b7c-a622-44d5-b4af-4a4c9e2fd447@4297.org
 SUMMARY:End of Day 2
 DTSTART;TZID=America/Denver:20240710T171500
 DTEND;TZID=America/Denver:20240710T180000
@@ -616,7 +605,7 @@ CATEGORIES:General Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3b39aa53-b356-4c9b-93b2-4b8436704730@3b39.org
+UID:99f13ecb-051e-4247-bcf8-9bbb2dd587de@99f1.org
 SUMMARY:Day 2 No-Host Social
 DTSTART;TZID=America/Denver:20240710T180000
 DTEND;TZID=America/Denver:20240710T200000
@@ -627,7 +616,7 @@ CATEGORIES:General Sessions,TAK Product Center
 END:VEVENT
 
 BEGIN:VEVENT
-UID:fb6e97d2-a1ac-4f89-9cbb-ac274cb91431@fb6e.org
+UID:5c6752b1-2804-4918-86bc-6a722f7e5fea@5c67.org
 SUMMARY:Day 3 Check-In
 DTSTART;TZID=America/Denver:20240711T073000
 DTEND;TZID=America/Denver:20240711T081500
@@ -638,7 +627,7 @@ CATEGORIES:Program Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ba1d1418-1d34-4015-adfa-9a5df65bb766@ba1d.org
+UID:863a77f3-7d93-4114-a300-c3987af1ec51@863a.org
 SUMMARY:Day 3 Welcome Message
 DTSTART;TZID=America/Denver:20240711T081500
 DTEND;TZID=America/Denver:20240711T083000
@@ -649,7 +638,7 @@ CATEGORIES:Program Sessions,Conference Opener
 END:VEVENT
 
 BEGIN:VEVENT
-UID:621c4c66-3f82-4ff1-a4b3-961e520f6f8e@621c.org
+UID:dcbeb600-70c9-400e-bfe8-7eb330b0f3de@dcbe.org
 SUMMARY:AFRL TAK ML Plugin
 DTSTART;TZID=America/Denver:20240711T083000
 DTEND;TZID=America/Denver:20240711T090000
@@ -660,8 +649,8 @@ CATEGORIES:Program Sessions,Analysis
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0006e999-a305-438e-80e3-f3e9f2dae98f@0006.org
-SUMMARY:SWAK Update
+UID:13a5ac57-37fe-4786-aa31-c6046151c76f@13a5.org
+SUMMARY:Special Warfare Assault Kit Program Update
 DTSTART;TZID=America/Denver:20240711T083000
 DTEND;TZID=America/Denver:20240711T090000
 DESCRIPTION:Track: Panel Discussions
@@ -671,7 +660,7 @@ CATEGORIES:Panel Discussions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9289c1e6-54b4-4800-a23d-538421d0d5c0@9289.org
+UID:194c69ce-9e3a-4d6c-9170-b13bf3b5f1e9@194c.org
 SUMMARY:USMC TAK Server Deployment
 DTSTART;TZID=America/Denver:20240711T083000
 DTEND;TZID=America/Denver:20240711T090000
@@ -682,7 +671,7 @@ CATEGORIES:Architecture Sessions,Training
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9fae3e05-8532-42f7-8513-6268fcd3d0a0@9fae.org
+UID:18ae6f6b-dde5-4b48-bde9-9dbbc2f8556c@18ae.org
 SUMMARY:AFRL AI/ML Projects: LLM Integration
 DTSTART;TZID=America/Denver:20240711T090000
 DTEND;TZID=America/Denver:20240711T094500
@@ -693,18 +682,18 @@ CATEGORIES:Program Sessions,Analysis
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ce969ab8-96c2-455b-b49b-06876c2214a4@ce96.org
-SUMMARY:IVAS Program Update -  XRTAK Demo
+UID:fb1e2317-b51f-4ebd-b1b7-bb79ee99ec9c@fb1e.org
+SUMMARY:US Border Patrol
 DTSTART;TZID=America/Denver:20240711T090000
 DTEND;TZID=America/Denver:20240711T094500
 DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_IVAS_Program_Update
+Link: https://tak.gov/events/2024_Offsite_USBP
 LOCATION:Salon B
 CATEGORIES:Panel Discussions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a5f08278-7610-413e-ab27-e57fd7b2ff73@a5f0.org
+UID:4a4b6d1c-23f5-45bc-8dd7-dbbb33023e76@4a4b.org
 SUMMARY:End User Training #1 TAK Server & FEDHUB
 DTSTART;TZID=America/Denver:20240711T090000
 DTEND;TZID=America/Denver:20240711T100000
@@ -715,51 +704,51 @@ CATEGORIES:Architecture Sessions,Training
 END:VEVENT
 
 BEGIN:VEVENT
-UID:08375029-6a5d-401d-a65b-28187f67eca8@0837.org
+UID:30fde2d4-994b-4424-b156-7969b458d34e@30fd.org
 SUMMARY:Day 3 Morning Break
 DTSTART;TZID=America/Denver:20240711T094500
 DTEND;TZID=America/Denver:20240711T100000
 DESCRIPTION:Track: Program Sessions
 Link: https://tak.gov/events/2024_Offsite_Break111
-LOCATION:Salon A
+LOCATION:All Salons
 CATEGORIES:Program Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1e31cb33-3f00-467f-b771-098b08e8f6b1@1e31.org
-SUMMARY:USBP
-DTSTART;TZID=America/Denver:20240711T094500
-DTEND;TZID=America/Denver:20240711T103000
-DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_USBP
-LOCATION:Salon B
-CATEGORIES:Panel Discussions,Client Platforms
-END:VEVENT
-
-BEGIN:VEVENT
-UID:84c2fbac-4b8e-4be7-8b7a-e5e0c49a7f26@84c2.org
-SUMMARY:SAR/Evasion guidance and TAK ML
+UID:94b0380b-908e-4859-a50e-074b20cb5c30@94b0.org
+SUMMARY:AFRL ML Topics (continued)
 DTSTART;TZID=America/Denver:20240711T100000
 DTEND;TZID=America/Denver:20240711T103000
 DESCRIPTION:Track: Program Sessions
-Link: https://tak.gov/events/2024_Offsite_SAR_Evasion_TAK_ML
+Link: https://tak.gov/events/2024_Offsite_AFRL_ML_Topics
 LOCATION:Salon A
 CATEGORIES:Program Sessions,Analysis
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8e7de2e4-c43e-4487-a492-4cbea19481c9@8e7d.org
-SUMMARY:End User Training #2 WebTAK
+UID:3ea34f7e-95b2-4cbf-94a3-9b97c6a4bc1b@3ea3.org
+SUMMARY:Defender Mobile Situational Awareness Tool
 DTSTART;TZID=America/Denver:20240711T100000
 DTEND;TZID=America/Denver:20240711T104500
 DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_WebTAK_Training
+Link: https://tak.gov/events/2024_Offsite_Defender_Tool_Mobile_Awareness
 LOCATION:Salon B
-CATEGORIES:Panel Discussions,Training
+CATEGORIES:Panel Discussions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:102de6d8-3911-411a-8eb1-abae4ca27acb@102d.org
+UID:bb204ebd-ace9-44e4-9246-308829f73d46@bb20.org
+SUMMARY:End User Training #2 WebTAK
+DTSTART;TZID=America/Denver:20240711T100000
+DTEND;TZID=America/Denver:20240711T104500
+DESCRIPTION:Track: Architecture Sessions
+Link: https://tak.gov/events/2024_Offsite_WebTAK_Training
+LOCATION:Salon C
+CATEGORIES:Architecture Sessions,Training
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6a83ab26-5269-4309-a7c7-342966a526d4@6a83.org
 SUMMARY:AFRL SBIR ML Topics
 DTSTART;TZID=America/Denver:20240711T103000
 DTEND;TZID=America/Denver:20240711T110000
@@ -770,29 +759,18 @@ CATEGORIES:Program Sessions,Analysis
 END:VEVENT
 
 BEGIN:VEVENT
-UID:295e1138-88a9-48cb-9c5c-d49b3c719e6c@295e.org
-SUMMARY:Day 3 Morning Break - Salon B Now Open to Distro A
-DTSTART;TZID=America/Denver:20240711T103000
-DTEND;TZID=America/Denver:20240711T104500
-DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_Break110
-LOCATION:Salon B
-CATEGORIES:Panel Discussions
-END:VEVENT
-
-BEGIN:VEVENT
-UID:8ac69360-0a29-4006-b274-06066668e169@8ac6.org
-SUMMARY:DTRA/CBRNE
+UID:554a0849-b7a5-4bd1-be7c-d5eb3c5272cd@554a.org
+SUMMARY:Aviation Combat Element C2 in Support of the Marine Expeditionary Unit
 DTSTART;TZID=America/Denver:20240711T104500
 DTEND;TZID=America/Denver:20240711T111500
 DESCRIPTION:Track: Program Sessions
-Link: https://tak.gov/events/2024_Offsite_DTRA_CBRNE
+Link: https://tak.gov/events/2024_Offsite_USMC_Aviation_Support
 LOCATION:Salon A
 CATEGORIES:Program Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:af5b54b2-5b4a-4878-8919-6521c234448b@af5b.org
+UID:6d469986-b0a9-4477-838d-7a58e504ffce@6d46.org
 SUMMARY:End User Training #3 ATAK
 DTSTART;TZID=America/Denver:20240711T104500
 DTEND;TZID=America/Denver:20240711T120000
@@ -803,7 +781,7 @@ CATEGORIES:Panel Discussions,Training
 END:VEVENT
 
 BEGIN:VEVENT
-UID:12c26b1a-bb0a-4c8d-8e4b-ef039efde813@12c2.org
+UID:fe8ce14b-fe73-48dc-9193-6695e0b491b5@fe8c.org
 SUMMARY:Panel #2: The Future of AI
 DTSTART;TZID=America/Denver:20240711T110000
 DTEND;TZID=America/Denver:20240711T120000
@@ -814,7 +792,7 @@ CATEGORIES:Program Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:88c14e05-2a1e-4803-96ce-e130c7cd73e2@88c1.org
+UID:45386988-e315-4138-9a45-14fcfdd10b37@4538.org
 SUMMARY:I Corps Pacific TAK Development
 DTSTART;TZID=America/Denver:20240711T111500
 DTEND;TZID=America/Denver:20240711T120000
@@ -825,7 +803,7 @@ CATEGORIES:Program Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8bd032cc-d785-478d-bc60-01d8c205ab67@8bd0.org
+UID:f1e2afc2-fa9a-4202-9ef4-a0e5a4efa3a7@f1e2.org
 SUMMARY:Day 3 Lunch Break
 DTSTART;TZID=America/Denver:20240711T120000
 DTEND;TZID=America/Denver:20240711T133000
@@ -836,7 +814,7 @@ CATEGORIES:Program Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d1987064-4ad9-4fcf-b100-7563c152823b@d198.org
+UID:0d989c8b-5b83-4fe2-880b-927a304d2c64@0d98.org
 SUMMARY:C5ISR Center – VENOM TAK Radio Services
 DTSTART;TZID=America/Denver:20240711T133000
 DTEND;TZID=America/Denver:20240711T140000
@@ -847,18 +825,18 @@ CATEGORIES:Program Sessions,Interoperability
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b82995ee-d956-4efb-a1aa-c4265b82458f@b829.org
-SUMMARY:Assured Base Operations
+UID:b0daad23-9bd5-45d4-b5a5-f7f38f526c93@b0da.org
+SUMMARY:STITCHES
 DTSTART;TZID=America/Denver:20240711T133000
-DTEND;TZID=America/Denver:20240711T143000
+DTEND;TZID=America/Denver:20240711T140000
 DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_Assured_Base_Operations
+Link: https://tak.gov/events/2024_Offsite_STITCHES
 LOCATION:Salon B
-CATEGORIES:Panel Discussions,System Management
+CATEGORIES:Panel Discussions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:93543655-7309-4248-b79b-9558bc8e769b@9354.org
+UID:0ea78132-3ccd-40ca-9a8a-38235a381b18@0ea7.org
 SUMMARY:End User Training #4 TAKX
 DTSTART;TZID=America/Denver:20240711T133000
 DTEND;TZID=America/Denver:20240711T144500
@@ -869,7 +847,7 @@ CATEGORIES:Architecture Sessions,Training
 END:VEVENT
 
 BEGIN:VEVENT
-UID:348043ae-6e58-429b-ab25-2df72813d22e@3480.org
+UID:474d8c69-fb7e-4771-bad3-6a5180fd6883@474d.org
 SUMMARY:Army Research Lab: XR COP
 DTSTART;TZID=America/Denver:20240711T140000
 DTEND;TZID=America/Denver:20240711T143000
@@ -880,7 +858,18 @@ CATEGORIES:Program Sessions,Ground Operations
 END:VEVENT
 
 BEGIN:VEVENT
-UID:98e09b3b-96a5-4729-9a56-c18e3ecfdf42@98e0.org
+UID:5430e8a5-0e26-4255-a858-e2e9cf51c9ef@5430.org
+SUMMARY:ATAK UAS Tool Updates
+DTSTART;TZID=America/Denver:20240711T140000
+DTEND;TZID=America/Denver:20240711T143000
+DESCRIPTION:Track: Panel Discussions
+Link: https://tak.gov/events/2024_Offsite_ATAK_UAS_Tools_Update
+LOCATION:Salon B
+CATEGORIES:Panel Discussions,UAS/Sensor Control
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c3c79813-04ce-4c19-a91b-22a717172bdb@c3c7.org
 SUMMARY:Day 3 Afternoon Break
 DTSTART;TZID=America/Denver:20240711T143000
 DTEND;TZID=America/Denver:20240711T144500
@@ -891,29 +880,29 @@ CATEGORIES:Program Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0fb6ba83-c02b-4393-ad2b-877b78bd2751@0fb6.org
-SUMMARY:Soldier Center Trailblazer Routing Plugin + Foresight Sensor Dashboard
-DTSTART;TZID=America/Denver:20240711T144500
-DTEND;TZID=America/Denver:20240711T151500
-DESCRIPTION:Track: Program Sessions
-Link: https://tak.gov/events/2024_Offsite_Trailblazer+Foresight
-LOCATION:Salon A
-CATEGORIES:Program Sessions,UAS/Sensor Control
-END:VEVENT
-
-BEGIN:VEVENT
-UID:83ff15db-2fe6-4531-b632-8181f496784d@83ff.org
+UID:1385e8ca-2f1f-4c30-9e74-f25bd26b079b@1385.org
 SUMMARY:Soldier Center: Auto LZ
 DTSTART;TZID=America/Denver:20240711T144500
 DTEND;TZID=America/Denver:20240711T151500
-DESCRIPTION:Track: Panel Discussions
+DESCRIPTION:Track: Program Sessions
 Link: https://tak.gov/events/2024_Offsite_AutoLZ
-LOCATION:Salon B
-CATEGORIES:Panel Discussions,Client Platforms
+LOCATION:Salon A
+CATEGORIES:Program Sessions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b95e8537-9d7b-451c-91b2-53361d68cbbb@b95e.org
+UID:29534600-959c-4d6b-ab60-95c6d7e885f2@2953.org
+SUMMARY:Soldier Center: Soldier TAK Applications
+DTSTART;TZID=America/Denver:20240711T144500
+DTEND;TZID=America/Denver:20240711T151500
+DESCRIPTION:Track: Panel Discussions
+Link: https://tak.gov/events/2024_Offsite_Soldier_TAK_Applications
+LOCATION:Salon B
+CATEGORIES:Panel Discussions,UAS/Sensor Control
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f4127545-4a04-4ed5-a3d4-4b36c7904835@f412.org
 SUMMARY:End User Training #5 WinTAK
 DTSTART;TZID=America/Denver:20240711T144500
 DTEND;TZID=America/Denver:20240711T160000
@@ -924,7 +913,7 @@ CATEGORIES:Architecture Sessions,Training
 END:VEVENT
 
 BEGIN:VEVENT
-UID:83cc14da-7bbe-4b8e-a69b-554ba0da6147@83cc.org
+UID:1af1c425-e796-461f-b4d3-f977d28c3538@1af1.org
 SUMMARY:AFRL: KENNEL
 DTSTART;TZID=America/Denver:20240711T151500
 DTEND;TZID=America/Denver:20240711T154500
@@ -935,18 +924,18 @@ CATEGORIES:Program Sessions,Fire & Emergency Response
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a754f9cc-ce6b-441a-bc02-3ca6f7f885c5@a754.org
-SUMMARY:DTRA WASP
+UID:b9c6a81d-791b-469e-8570-9dbad180c75c@b9c6.org
+SUMMARY:Subterranean Mapping and Mission Planning (DTRA/CBRN)
 DTSTART;TZID=America/Denver:20240711T151500
 DTEND;TZID=America/Denver:20240711T154500
 DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_DTRA_WASP
+Link: https://tak.gov/events/2024_Offsite_DTRA_CBRNE
 LOCATION:Salon B
-CATEGORIES:Panel Discussions,Client Platforms
+CATEGORIES:Panel Discussions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ee8e3510-8981-4408-b9e2-65b56c0e096a@ee8e.org
+UID:a566d0b7-ae6b-4f71-a41c-f988bc3ef940@a566.org
 SUMMARY:Day 3 Late Afternoon Break
 DTSTART;TZID=America/Denver:20240711T154500
 DTEND;TZID=America/Denver:20240711T160000
@@ -957,7 +946,7 @@ CATEGORIES:Program Sessions
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bf0cbfbd-c0a0-4e12-acba-c91153aba74a@bf0c.org
+UID:fd772b49-79f1-4b24-b6ea-ad679815d3bf@fd77.org
 SUMMARY:AFRL: PACE4ACE
 DTSTART;TZID=America/Denver:20240711T160000
 DTEND;TZID=America/Denver:20240711T163000
@@ -968,18 +957,29 @@ CATEGORIES:Program Sessions,Analysis
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c3dbb467-9146-4fe9-a692-2f6b8d7c408a@c3db.org
-SUMMARY:ATAK UAS Tool Updates
+UID:380b2a5d-2de2-4aed-901d-a67236361d93@380b.org
+SUMMARY:DTRA WASP
 DTSTART;TZID=America/Denver:20240711T160000
 DTEND;TZID=America/Denver:20240711T163000
 DESCRIPTION:Track: Panel Discussions
-Link: https://tak.gov/events/2024_Offsite_ATAK_UAS_Tools_Update
+Link: https://tak.gov/events/2024_Offsite_DTRA_WASP
 LOCATION:Salon B
-CATEGORIES:Panel Discussions,UAS/Sensor Control
+CATEGORIES:Panel Discussions,Client Platforms
 END:VEVENT
 
 BEGIN:VEVENT
-UID:428360f1-792d-4fe3-85d2-012d7eec8a7f@4283.org
+UID:10d43eba-c6df-45b8-b990-98ad1002e974@10d4.org
+SUMMARY:DITTO
+DTSTART;TZID=America/Denver:20240711T160000
+DTEND;TZID=America/Denver:20240711T163000
+DESCRIPTION:Track: Architecture Sessions
+Link: https://tak.gov/events/2024_Offsite_Ditto
+LOCATION:Salon C
+CATEGORIES:Architecture Sessions,Client Platforms
+END:VEVENT
+
+BEGIN:VEVENT
+UID:66448690-797f-44b3-ac8f-33f8f84c342b@6644.org
 SUMMARY:End of Conference Wrap-Up Video Recording from TPC Director
 DTSTART;TZID=America/Denver:20240711T163000
 DTEND;TZID=America/Denver:20240711T170000
@@ -990,7 +990,7 @@ CATEGORIES:Program Sessions,Conference Opener
 END:VEVENT
 
 BEGIN:VEVENT
-UID:de7c50eb-91b9-4309-a381-d063b87cb898@de7c.org
+UID:8ef1bf19-906c-49ec-8aae-2d546a09b8e4@8ef1.org
 SUMMARY:End of Day 3
 DTSTART;TZID=America/Denver:20240711T170000
 DTEND;TZID=America/Denver:20240711T180000
